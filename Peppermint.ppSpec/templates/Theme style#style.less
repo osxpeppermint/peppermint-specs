@@ -1,0 +1,139 @@
+/*************************************************************
+**  THEMENAME
+**  Peppermint
+**
+**  Coded by AUTHOR_NAME
+**
+**  Copyright (c) YEAR AUTHOR_NAME
+**  All rights reserved.
+**************************************************************/
+
+#themeName {
+
+	/***************************
+	 General styling
+	 ***************************/
+
+	font-family: ;
+	color: ;
+	background-color: ;
+
+	#normal-mode .cursor-layer { z-index: 0; }
+
+	.gutter {
+
+
+		&-layer 		{ }
+		&-active-line 	{ }
+		&-cell:hover 	{ }
+	}
+
+	.fold {
+
+		&-widget {
+
+			&:hover 		{ }
+
+			&.start:after 	{ content: '▾'; }
+			&.end:after 	{ content: '▴'; }
+			&.closed:after 	{ content: '‣'; }
+
+			&.start, &.end,& .closed {
+				
+			}
+		}
+
+	}
+
+	.print-margin {
+		
+	}
+
+	.scroller {
+		
+	}
+
+	.cursor { border-left: 2px solid #FF852E; }
+
+	.overwrite-cursors {
+
+		.cursor {
+			
+		}
+
+	}
+
+	.text-layer { 
+		
+	}
+
+	.marker-layer {
+
+		.selection { }
+
+		.selected-word {
+			
+		}
+
+		.step { }
+
+		.bracket {
+			
+		}
+		.active-line {  }
+	}
+
+	.indent-guide {  }
+	.error {  }
+	.warning {  }
+
+	.tooltip {
+		
+	}
+
+	.breakpoint {
+	
+	}
+
+	/***************************
+	 Syntax Highlighting
+	 ***************************/
+
+	.invisible { }
+
+	.invalid {
+		&.illegal { 
+			
+		}
+
+		&.deprecated {
+			
+		}
+	}
+
+	.support { 
+
+		&.function { }
+	}
+
+	.string {
+
+		&.regexp { }
+	}
+
+	.comment 	{ }
+	.variable 	{ }
+	.xml-pe 	{ }
+
+	.keyword, .meta { }
+	.constant, .constant.character, .constant.character.escape, .constant.other, .heading, .markup.heading, .support.constant { }
+	.list, .markup.list, .storage { }
+	.entity.name.function, .meta.tag, .variable { }
+
+}
+
+#console {
+	background-color:black;
+
+	#cmd { background-color: black; }
+}

@@ -1,0 +1,8 @@
+{
+	"name"			: "php",
+	"author"		: "Peppermint",
+	"author_email"	: "drkameleon@gmail.com",
+	"last_update"	: "16-09-2014",
+	"content_type"	: "public.php-script",
+	"extensions"	: ["php", "php3", "php4", "php5", "ph3", "ph4", "phtml"]
+}

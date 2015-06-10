@@ -1,0 +1,6 @@
+{
+	"name"			: "AdaRunWithArgs",
+	"category"		: "",
+	"shortcut"		: "@$+R",
+	"nosandbox"     : ""
+}

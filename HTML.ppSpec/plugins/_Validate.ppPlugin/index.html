@@ -1,0 +1,13 @@
+<form id="checkForm" method="post" enctype="multipart/form-data" action="http://validator.w3.org/check">
+	<textarea id="fragment" name="fragment" rows="12" cols="80">%HTML%</textarea>
+	<input id="direct_prefill_no" name="prefill" type="radio" value="0" checked="checked" />
+	<select id="direct-doctype" name="doctype">
+  		<option value="Inline" selected="selected">(detect automatically)</option>
+	</select></td>
+	<input id="direct-fbd" name="fbd" type="checkbox" value="1" />
+</form>
+<script>
+(function() {
+	document.getElementById("checkForm").submit();
+})();
+</script>

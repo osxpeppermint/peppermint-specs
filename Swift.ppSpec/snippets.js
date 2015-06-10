@@ -1,0 +1,1 @@
+ace.define("ace/snippets/swift",["require","exports","module"],function(e,t,n){"use strict";t.snippetText='# println("...")\nsnippet pr\n	println("$1")$0\n# println("\(...)")\nsnippet po\n	println("\($1)")$0\n',t.scope="swift"});

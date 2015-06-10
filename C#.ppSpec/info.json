@@ -1,0 +1,8 @@
+{
+	"name"			: "csharp",
+	"author"		: "Peppermint",
+	"author_email"	: "drkameleon@gmail.com",
+	"last_update"	: "26-09-2014",
+	"content_type"	: "com.microsoft.c-sharp",
+	"extensions"	: ["cs"]
+}

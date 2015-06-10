@@ -1,0 +1,7 @@
+ace.define("ace/snippets/litcoffee",["require","exports","module"], function(require, exports, module) {
+"use strict";
+
+exports.snippetText = "snippet forin\n	for ${1:i} in ${2:array}\n		${3:# ...}\n	$0\nsnippet =\n	${1:(${2:arguments}) }=>\n		${3:# ...}\n	$0\nsnippet clx\n	class ${1:Name} extends ${2:SuperClass}\n		${3:constructor: ${4:(${5:arguments}) }->\n			${6:# ...}}\n		$7\n	$0\nsnippet cla\n	class ${1:Name}\n		${2:constructor: ${3:(${4:arguments}) }->\n			${5:# ...}}\n		$6\n	$0\nsnippet log\n	console.log $0\nsnippet elif\n	else if ${1:condition}\n		${2:# ...}\n	$0\nsnippet el\n	else\n		${1:# ...}\n	$0\nsnippet -\n	${1:(${2:arguments}) }->\n		${3:# ...}\n	$0\n	\nsnippet ifel\n	if ${1:condition}\n		${2:# ...}\n	else\n		${3:# ...}\n	$0\nsnippet if\n	if ${1:condition}\n		${2:# ...}\n	$0\nsnippet #\n	#{${1:$TM_SELECTED_TEXT}}\nsnippet forof\n	for ${1:${2:k}, ${3:v}} of ${4:object}\n		${5:# ...}\n	$0\nsnippet forx\n	for ${1:i} in [${2:start}...${3:finish}]${4: by ${5:step}}\n		${6:# ...}\n	$0\nsnippet fori\n	for ${1:i} in [${2:start}..${3:finish}]${4: by ${5:step}}\n		${6:# ...}\n	$0\nsnippet swi\n	switch ${1:object}\n		when ${2:value}\n			${3:# ...}\n		$4\n	$0\nsnippet ter\n	if ${1:condition} then ${2:...} else ${3:...}\n	$0\nsnippet try\n	try\n		${1:# ...}\n	catch ${2:e}\n		${3:# ...}\n	$0\nsnippet unl\n	${1:...} unless ${2:condition}\n	$0\nsnippet req\n	${2/^.*?([\w_]+).*$/\L$1/} = require ${2:'${1:sys}'}$3\n";
+exports.scope = "litcoffee";
+
+});

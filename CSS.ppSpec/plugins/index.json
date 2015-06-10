@@ -1,0 +1,8 @@
+[
+	{ "title" : "Preview (LESS)" },
+	{ "title" : "Live Preview (LESS)" },
+	{ "title" : "--" },
+	{ "title" : "Compile (LESS)" },
+	{ "title" : "--" },
+	{ "title" : "Beautify" }
+]

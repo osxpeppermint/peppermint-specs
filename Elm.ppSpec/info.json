@@ -1,0 +1,8 @@
+{
+	"name" : "elm",
+	"author" : "Peppermint",
+	"author_email" : "drkameleon@gmail.com",
+	"last_update" : "07-06-15",
+	"content_type" : "public.text",
+	"extensions" : ["elm"]
+}

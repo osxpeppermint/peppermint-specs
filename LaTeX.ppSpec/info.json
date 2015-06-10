@@ -1,0 +1,8 @@
+{
+	"name"			: "latex",
+	"author"		: "Peppermint",
+	"author_email"	: "drkameleon@gmail.com",
+	"last_update"	: "26-09-2014",
+	"content_type"	: "org.tug.text",
+	"extensions"	: ["tex", "sty", "cls"]
+}

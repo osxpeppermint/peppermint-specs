@@ -1,0 +1,8 @@
+{
+	"name"			: "xml",
+	"author"		: "Peppermint",
+	"author_email"	: "drkameleon@gmail.com",
+	"last_update"	: "26-09-2014",
+	"content_type"	: "public.xml",
+	"extensions"	: ["xml", "xsd", "xib", "rss", "tld", "pt", "cpt", "dtml", "xsl", "xhtml"]
+}

@@ -1,0 +1,8 @@
+{
+	"name"			: "objectivec",
+	"author"		: "Peppermint",
+	"author_email"	: "drkameleon@gmail.com",
+	"last_update"	: "16-09-2014",
+	"content_type"	: "public.objective-c-source",
+	"extensions"	: ["m"]
+}

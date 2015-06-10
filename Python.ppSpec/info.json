@@ -1,0 +1,8 @@
+{
+	"name"			: "python",
+	"author"		: "Peppermint",
+	"author_email"	: "drkameleon@gmail.com",
+	"last_update"	: "16-09-2014",
+	"content_type"	: "public.python-script",
+	"extensions"	: ["py", "rpy", "cpy", "python"]
+}

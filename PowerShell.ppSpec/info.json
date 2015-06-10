@@ -1,0 +1,16 @@
+{
+  "name": "powershell",
+  "author": "Peppermint",
+  "author_email": "drkameleon@gmail.com",
+  "last_update": "09-11-2014",
+  "content_type": "public.source",
+  "extensions": [
+    "ps1",
+    "psd1",
+    "psm1",
+    "ps1xml",
+    "clixml",
+    "psc1",
+    "pssc"
+  ]
+}
