@@ -1,0 +1,5 @@
+{
+	"name"			: "GoLinter",
+	"scope"			: "Go",
+	"author"		: "Peppermint"
+}
