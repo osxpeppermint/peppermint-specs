@@ -1,0 +1,6 @@
+{
+	"name"			: "JavaBuild",
+	"category"		: "",
+	"scope"			: "Java",	
+	"shortcut"		: "@+B"
+}
