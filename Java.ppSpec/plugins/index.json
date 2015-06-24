@@ -1,4 +1,8 @@
 [
 	{ "title" : "Run" },
-	{ "title" : "Run with Arguments" }
+	{ "title" : "Run with Arguments" },
+	{ "title" : "--" },
+	{ "title" : "Build Jar" },
+	{ "title" : "--"},
+	{ "title" : "Beautify" }
 ]

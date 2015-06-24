@@ -1,0 +1,5 @@
+{
+	"name"		: "YamlParser",
+	"scope"		: "YAML",
+	"author"	: "Peppermint"
+}

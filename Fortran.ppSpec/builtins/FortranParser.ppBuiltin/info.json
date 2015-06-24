@@ -1,0 +1,5 @@
+{
+	"name"		: "FortranParser",
+	"scope"		: "Fortran",
+	"author"	: "Peppermint"
+}
