@@ -1,0 +1,5 @@
+{
+	"name"		: "YamlLinter",
+	"scope"		: "YAML",
+	"author"	: "Peppermint"
+}
